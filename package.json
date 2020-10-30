@@ -1,0 +1,52 @@
+{
+  "name": "DankZone",
+  "version": "0.1.5",
+  "description": "The DankZone Discord Serber Official Website.",
+  "main": "gulpfile.js",
+  "author": "LeoDoesThings",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^3.2.1",
+    "gulp-util": "^3.0.8"
+  },
+  "dependencies": {
+    "del": "^4.1.1",
+    "gulp-cache": "^1.1.1",
+    "gulp-csscomb": "^3.0.8",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-html-prettify": "0.0.1",
+    "gulp-npm-dist": "^1.0.3",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-run": "^1.7.1",
+    "gulp-uglify": "^3.0.1",
+    "gulp-useref-plus": "0.0.8",
+    "gulp-wait": "0.0.2",
+    "postcss-flexbugs-fixes": "^4.1.0",
+    "pump": "^3.0.0",
+    "run-sequence": "^2.2.1",
+    "bootstrap": "^4.3.1",
+    "express": "^4.16.4",
+    "ejs": "^2.7.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0",
+    "harp": "^0.30.1",
+    "discord.js": "^12.3.1"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DankZone/discord.dankzone.ml"
+  },
+  "repository": {
+    "url": "https://glitch.com/~dzdiscord"
+  },
+  "homepage": "https://discord.dankzone.ml"
+}
